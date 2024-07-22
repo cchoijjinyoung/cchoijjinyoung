@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cchoijjinyoung&theme=graywhite&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cchoijjinyoung&theme=dark&show_icons=true)
 
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
