@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/cchoijjinyoung"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/cchoijjinyoung"
+    width="600"
+    height="120"
+  />
 </a>
+  
