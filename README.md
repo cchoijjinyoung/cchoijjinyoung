@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/lines/cchoijjinyoung"
+      src="https://render.gitanimals.org/lines/cchoijjinyoung?contribution-view=false"
       width="500"
       height="120"
     />
