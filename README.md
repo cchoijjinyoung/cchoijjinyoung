@@ -53,15 +53,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 
 <div align=center>
 
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/cchoijjinyoung?pet-id=1&contribution-view=false"
-      width="500"
-      height="120"
-    />
-  </a>
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cchoijjinyoung&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/cchoijjinyoung?pet-id=700202438422279550"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 </div>
