@@ -29,6 +29,12 @@ PCCP Java Lv3
 
 </div>
 
+</div>
+<div align=center>
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cchoijinyoung)](https://solved.ac/cchoijinyoung)
+
+</div>
 ---
 
 <!--
@@ -65,6 +71,3 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-  
-  
-</div>
